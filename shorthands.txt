@@ -1,0 +1,57 @@
+1-) border
+
+border-width: 1px;
+border-style: solid;
+border-color: black;
+
+border: 1px solid black;
+
+
+2-) margin, padding and outline:
+
+margin-top: 1px;
+margin-right: 3px;
+margin-bottom: 2px;
+margin-left: 3px
+
+margin: 1px 3px 2px 3px;
+
+padding-top: 4px;
+padding-right: 3px;
+padding-bottom: 4px;
+padding-left: 3px;
+
+padding: 4px 3px;
+
+3-) font:
+
+font-weight: bold;
+font-style: italic;
+font-variant: small-caps;
+font-size: 1.5em;
+line-height: 30px;
+font-family: sans-serif;
+
+font: bold italic small-caps 1.5em 30px sans-serif;
+
+4-) background:
+
+background-color: black;
+background-image: url(image.png)
+background-repeat: no-repeat;
+background-position: top left;
+background-attachment: fixed;
+
+background: black url(image.png) no-repeat top left fixed;
+
+5-) list-style:
+
+list-style-type: circle;
+list-style-position: inside;
+list-style-image: url(bullet.png)
+
+list-style: circle inside url(bullet.png)
+
+
+
+
