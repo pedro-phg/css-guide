@@ -86,7 +86,7 @@ body {
 #caixa {
     background-color: #272339;
     color: white;
-    width: 500px;
+    width: 410px;
     margin: 50px auto;
     padding: 20px 20px 20px 30px;
     border-radius: 5px;
@@ -95,6 +95,7 @@ body {
 }
 
 #caixa:hover {
-    
+    cursor: pointer;
     border: 2px solid #b055c2;
 }
+
